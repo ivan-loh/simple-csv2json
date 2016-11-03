@@ -1,6 +1,6 @@
 {
   "name": "simple-csv2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple streaming csv to json",
   "main": "index.js",
   "scripts": {
